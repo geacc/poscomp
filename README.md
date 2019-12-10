@@ -1,7 +1,7 @@
 # poscomp
 Repositório com todas as provas (e gabaritos) do **Exame Nacional para Ingresso
 na Pós-Graduação em Computação (POSCOMP)**, da Sociedade Brasileira de Computação
-(SBC), dos anos de 2002 a 2018.
+(SBC), dos anos de 2002 a 2019.
 
 As provas originais estão organizadas em diretórios identificados pelo ano
 de aplicação (prova e gabarito).
